@@ -5,5 +5,4 @@ class Person
   def walk
     puts "The Dog is walking"
   end
-
 end
